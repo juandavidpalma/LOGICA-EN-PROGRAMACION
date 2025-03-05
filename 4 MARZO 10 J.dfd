@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+"valor del producto"
+5
+1
+2
+V1
+4
+1
+16
+"CUANTOS QUIERE"
+5
+1
+1
+C
+4
+1
+17
+"CUAL ES SU EDAD"
+5
+1
+4
+EDAD
+7
+0
+1
+21
+EDAD>=18 AND EDAD<=25
+6
+1
+2
+VC
+4
+V1*C
+4
+1
+14
+"PAGA ", TOTAL
+13
+6
+3
+2
+VC
+4
+V1*C
+3
+DES
+7
+VC*0.05
+5
+TOTAL
+6
+VC-DES
+4
+1
+13
+" PAGA",TOTAL
+13
+1

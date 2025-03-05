@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+"señor usuario cuantos almuerzos quiere comprar"
+5
+1
+2
+ac
+4
+1
+26
+" su saldo de valor es de"
+5
+1
+2
+sv
+6
+3
+2
+va
+4
+1500
+1
+v
+3
+250
+2
+li
+3
+300
+6
+1
+2
+vv
+4
+ac+v
+7
+0
+1
+6
+vv<300
+4
+1
+29
+"no puedes comprar almuerzos"
+13
+7
+0
+0
+13
+13
+4
+1
+29
+"si puedes comprar almuerzos"
+6
+2
+2
+ca
+5
+ac*va
+2
+pg
+5
+ca-sv
+4
+1
+21
+"tiene que pagar", pg
+13
+1
